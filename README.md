@@ -2,4 +2,4 @@
 
 Hello world!
 
-My name is Vadim. I am java developer
+My name is Vadim. I am a java backend developer
